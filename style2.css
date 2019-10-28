@@ -1,0 +1,102 @@
+.heading 
+{
+	background:url(https://cdn.discordapp.com/attachments/621932927839633458/635347331796959232/unknown.png) repeat;
+	max-height: 440px;
+	font-family: Century Gothic;
+	color:white;
+	padding: 45px;
+	text-align:center;
+	font-size: 70px;
+	font-weight: bold;
+}
+
+.nation
+{
+	border: 3px solid #000000;
+	font-family: Century Gothic;
+	color:white;
+	max-width: 120px;
+	max-height: 80px;
+	font-size: 15px;
+	padding: 20px;
+	text-align:center;
+	display:inline-block;
+}
+
+
+.block
+{
+	background-color:#D6D6D6;
+	font-family: Century Gothic;
+	text-align:center;
+	color:black;
+	font-size: 40px;
+	
+}
+
+.selector
+{
+	display: inline-block;
+	font-family: Century Gothic;
+	color: #540D07;
+	background:#EDEDED;
+	font-size:30px;
+	height:50px;
+	text-align:center;
+	padding:10px;
+	padding-top:20px;
+	##border: 1px solid black;
+}
+
+.selector:hover
+{
+	background:none;
+	transition:background .5s;
+}
+
+.about-table, ab-th, ab-td
+{
+	border: 1px solid white;
+	background: linear-gradient(#F7F7F7,white);
+	width:100%;
+	font-family:Century Gothic;
+	color:black;
+	padding: 20px;
+	text-align: center;
+}
+
+.padd
+{
+	padding:5px;
+	font-size:10px;
+}
+
+.ab-th
+{
+	text-align:center;
+	font-size:40px;
+	font-weight:lighter;
+}
+
+.color-border
+{
+	width:30px;
+	height:30px;
+	border: 3px solid #3D3D3D;
+}
+
+.color-border:hover
+{
+	width:35px;
+	height:35px;
+}
+
+.icon-border
+{
+	width:45px;
+}
+
+.icon-border:hover
+{
+	width:50px;
+}
